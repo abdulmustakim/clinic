@@ -3,7 +3,7 @@
    Mobile Menu, Forms, WhatsApp, FAQ, Theme, Animations
    =========================== */
 
-const WHATSAPP_NUMBER = "919876543210"; // Change this number for real clinic
+const WHATSAPP_NUMBER = "918391879877"; // Change this number for real clinic
 
 // Loader
 window.addEventListener("load", () => {
